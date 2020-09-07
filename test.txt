@@ -4,3 +4,4 @@ Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·
 Egit commit
 git rm
 git status
+Egit diff
