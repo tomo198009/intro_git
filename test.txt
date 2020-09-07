@@ -3,3 +3,4 @@ Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·
 Egit add
 Egit commit
 git rm
+git status
